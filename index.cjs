@@ -1,4 +1,4 @@
-const todosOsNumerosSomados = require('./Desafio01/day 1/index.cjs');
+const todosOsNumerosSomados = require('./Desafio01/index.cjs');
 
 console.log('> [ ☀️ DAY 1 ] Resultado final:');
 console.log(todosOsNumerosSomados);
